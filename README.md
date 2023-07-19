@@ -1,6 +1,6 @@
 # Stone Paper Lizard Spock Game
 
-Open https://priyank003.github.io/lizard-spock-game/ to view the project and enjoy :)
+Open https://stranger1710.github.io/frontend-game/ to view the project and enjoy :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
